@@ -5,7 +5,7 @@ title: Home
 # Making Cancer Treatable
 
 Welcome to the Kunda Lab website!!
-Our lab at St. John's University, within the department of Industrial Pharmacy, specializes in using nanotechnology in developing therapeutics against infectious disease and cancer, synthesizing polymeric nanoparticles and attaching targeting moieties for site-specific delivery, and drug and vaccine formulation for pulmonary delivery. Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants.
+The Kunda Lab at St. John's University, within the department of Industrial Pharmacy, specializes in developing nano and micro-sized drug delivery carriers for advancing therapeutic strategies against respiratory diseases such as tuberculosis, pneumonia, pulmonary fibrosis, non-small cell lung cancer among others. An effective treatment strategy against these respiratory diseases would be to develop formulations that can be delivered to the lungs. Drug delivery to the lungs would help achieve high local drug concentrations at the diseased site, lower dose, and less systemic side effects compared to oral delivery leading to improved efficacy. In formulating orally inhalable drug products and vaccines, the lab takes a multi-disciplinary approach combining pharmaceutics, microbiology, and immunology.
 <!---{%
   include link.html
   type="github"
@@ -33,7 +33,8 @@ Our lab at St. John's University, within the department of Industrial Pharmacy, 
 # Highlights
 
 {% capture text %}
-Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants. Our lab specializes in developing dry powder biologics that do not require cold-chain for storage and transport thereby decreasing the cost of biologics-based products significantly.
+Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants. Our lab specializes in developing dry powder biologics that do not require cold-chain for storage and transport thereby decreasing the cost of biologics-based products significantly. 
+Our extensive research publications cover a wide variety of topics including formulation design, novel drug delivery carriers, development of thermostable and/or inhalable vaccines, and health effects due to common environmental toxicants.
 
 [See what we've published &nbsp;→](research)
 {:.center}
