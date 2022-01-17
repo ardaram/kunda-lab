@@ -4,6 +4,7 @@ title: Home
 
 # Making Cancer Treatable
 
+Welcome to the Kunda Lab website!!
 Our lab at St. John's University, within the department of Industrial Pharmacy, specializes in using nanotechnology in developing therapeutics against infectious disease and cancer, synthesizing polymeric nanoparticles and attaching targeting moieties for site-specific delivery, and drug and vaccine formulation for pulmonary delivery. Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants.
 <!---{%
   include link.html
@@ -49,7 +50,7 @@ Our research publications cover a wide variety of topics including formulation, 
 
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a group of graduate students.
 
 [Meet our team &nbsp;→](team)
 {:.center}
@@ -64,8 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are always looking for students interested to join our lab.
 
 [See our resources &nbsp;→](resources)
 {:.center}
