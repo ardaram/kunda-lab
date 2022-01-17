@@ -2,12 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Making Cancer Treatable
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
+Our lab specializes in using nanotechnology in developing therapeutics against infectious disease and cancer, synthesizing polymeric nanoparticles and attaching targeting moieties for site-specific delivery, and drug and vaccine formulation for pulmonary delivery. Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants.
+<!---{%
   include link.html
   type="github"
   icon=""
@@ -22,7 +20,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   text="See the documentation"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
-%}
+%} -->
 {:.center}
 
 {% include section.html full=true %}
