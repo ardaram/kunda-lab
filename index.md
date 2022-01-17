@@ -4,7 +4,7 @@ title: Home
 
 # Making Cancer Treatable
 
-Our lab specializes in using nanotechnology in developing therapeutics against infectious disease and cancer, synthesizing polymeric nanoparticles and attaching targeting moieties for site-specific delivery, and drug and vaccine formulation for pulmonary delivery. Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants.
+Our lab at St. John's University, within the department of Industrial Pharmacy, specializes in using nanotechnology in developing therapeutics against infectious disease and cancer, synthesizing polymeric nanoparticles and attaching targeting moieties for site-specific delivery, and drug and vaccine formulation for pulmonary delivery. Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants.
 <!---{%
   include link.html
   type="github"
