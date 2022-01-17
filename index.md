@@ -32,8 +32,7 @@ Our lab at St. John's University, within the department of Industrial Pharmacy, 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants. Our lab specializes in developing dry powder biologics that do not require cold-chain for storage and transport thereby decreasing the cost of biologics-based products significantly.
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -47,21 +46,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   text=text
 %}
 
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[See our resources &nbsp;→](resources)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
-  text=text
-%}
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -77,6 +62,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   headline="Our Team"
   text=text
 %}
+
+{% capture text %}
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[See our resources &nbsp;→](resources)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  headline="Join Us"
+  text=text
+%}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
