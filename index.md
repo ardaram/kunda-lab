@@ -36,7 +36,7 @@ The Kunda Lab at St. John's University, within the department of Industrial Phar
 Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants. Our lab specializes in developing dry powder biologics that do not require cold-chain for storage and transport thereby decreasing the cost of biologics-based products significantly. 
 Our extensive research publications cover a wide variety of topics including formulation design, novel drug delivery carriers, development of thermostable and/or inhalable vaccines, and health effects due to common environmental toxicants.
 
-[See what we've published &nbsp;→](research)
+[See what we do &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
@@ -53,7 +53,7 @@ Our extensive research publications cover a wide variety of topics including for
 {% capture text %}
 
 
-[Meet our team &nbsp;→](team)
+[See what we've published &nbsp;→](team)
 {:.center}
 {% endcapture %}
 
@@ -68,7 +68,7 @@ Our extensive research publications cover a wide variety of topics including for
 {% capture text %}
 We are a group of graduate students. We are always looking for students interested to join our lab.
 
-[See our resources &nbsp;→](resources)
+[Meet our team &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 
