@@ -33,8 +33,8 @@ The Kunda Lab at St. John's University, within the department of Industrial Phar
 # Highlights
 
 {% capture text %}
-Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants. Our lab specializes in developing dry powder biologics that do not require cold-chain for storage and transport thereby decreasing the cost of biologics-based products significantly. 
-Our extensive research publications cover a wide variety of topics including formulation design, novel drug delivery carriers, development of thermostable and/or inhalable vaccines, and health effects due to common environmental toxicants.
+Our lab specializes in developing dry powder biologics that do not require cold-chain for storage and transport thereby decreasing the cost of biologics-based products significantly. Our research publications cover a wide variety of topics including formulation, drug delivery, stabilization of vaccines, and health effects due to common environmental toxicants.
+
 
 [See what we do &nbsp;→](research)
 {:.center}
@@ -51,7 +51,7 @@ Our extensive research publications cover a wide variety of topics including for
 
 
 {% capture text %}
-
+Our extensive research publications cover a wide variety of topics including formulation design, novel drug delivery carriers, development of thermostable and/or inhalable vaccines, and health effects due to common environmental toxicants.
 
 [See what we've published &nbsp;→](team)
 {:.center}
@@ -66,7 +66,7 @@ Our extensive research publications cover a wide variety of topics including for
 %}
 
 {% capture text %}
-We are a group of graduate students. We are always looking for students interested to join our lab.
+We are a group of graduate students. 
 
 [Meet our team &nbsp;→](resources)
 {:.center}
@@ -81,5 +81,5 @@ We are a group of graduate students. We are always looking for students interest
 %}
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking for students to join our lab. Join Us!! 
+
