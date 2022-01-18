@@ -44,14 +44,14 @@ Our extensive research publications cover a wide variety of topics including for
   include feature.html
   image="images/photo.jpg"
   link="research"
-  headline="Our Research"
+  headline="Research"
   text=text
 %}
 
 
 
 {% capture text %}
-We are a group of graduate students.
+
 
 [Meet our team &nbsp;→](team)
 {:.center}
@@ -61,12 +61,12 @@ We are a group of graduate students.
   include feature.html
   image="images/photo.jpg"
   link="team"
-  headline="Our Team"
+  headline="Publications"
   text=text
 %}
 
 {% capture text %}
-We are always looking for students interested to join our lab.
+We are a group of graduate students. We are always looking for students interested to join our lab.
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -76,7 +76,7 @@ We are always looking for students interested to join our lab.
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  headline="Join Us"
+  headline="Our Team"
   text=text
 %}
 
