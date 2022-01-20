@@ -60,7 +60,7 @@ Our extensive research publications cover a wide variety of topics including for
 {%
   include feature.html
   image="images/photo.jpg"
-  link="Publications"
+  link="publications"
   headline="Publications"
   text=text
 %}
