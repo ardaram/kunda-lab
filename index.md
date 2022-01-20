@@ -53,7 +53,7 @@ Our lab specializes in developing dry powder biologics that do not require cold-
 {% capture text %}
 Our extensive research publications cover a wide variety of topics including formulation design, novel drug delivery carriers, development of thermostable and/or inhalable vaccines, and health effects due to common environmental toxicants.
 
-[See what we've published &nbsp;→](team)
+[See what we've published &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 
@@ -68,7 +68,7 @@ Our extensive research publications cover a wide variety of topics including for
 {% capture text %}
 We are a group of graduate students. 
 
-[Meet our team &nbsp;→](resources)
+[Meet our team &nbsp;→](team)
 {:.center}
 {% endcapture %}
 
