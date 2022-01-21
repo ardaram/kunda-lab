@@ -22,6 +22,6 @@ mascot:
   icon: fas fa-dog
   text: Mascot
 
-graduate_researcher:
+gr:
   icon: fas fa-graduation-cap
   text: Graduate researcher
