@@ -2,7 +2,7 @@
 name: Druvasarika Barji
 image: images/member.jpg
 description: Graduate Student
-role: 
+role: gr
 
 links:
   
