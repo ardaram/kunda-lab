@@ -1,19 +1,13 @@
 ---
-name: Upton O. Goode
+name: Apoorva Daram
 image: images/member.jpg
-description: Bone Investigator
-role: pi
-aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+description: Graduate Student
+
+
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
-  linkedin: https://linkedin/com/amishas157
+  
+  email: apoorva.daram21@my.stjohns.edu
+  linkedin: 
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Apoorva is a first year graduate student pursuing PhD in Industrial Pharmacy.
