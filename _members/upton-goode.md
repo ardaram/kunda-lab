@@ -11,6 +11,7 @@ links:
   orcid: 0000-0001-8713-9213
   email: upton@ogoode.com
   twitter: uptonogoode
+  linkedin: https://linkedin/com/amishas157
 ---
 
 Upton is a good dog.
