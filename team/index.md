@@ -33,7 +33,7 @@ We are a group of graduate students working in this lab.
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: gr"
 %}
 {:.center}
 
