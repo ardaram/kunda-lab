@@ -1,12 +1,16 @@
+
 ---
-name: Vasudha Prithipaul
+name: Meow
 image: images/member.jpg
-description: Graduate Student
-
-
+description: Bark Ops Engineer
+role: programmer
+aliases:
+  - A. Chovie
+  - A Chovie
 links:
-  email: vasudha.prithipaul20@my.stjohns.edu
-  linkedin: https://www.linkedin.com/in/vasudha-prithipaul-171469132
+email: anne@chovie.com
 ---
 
-Vasudha is a 3rd year graduate student pursuing PhD in Indutrial Pharmacy.
+Anne is a good dog.
+She studied at the University of Good Dogs.
+She likes pets, walkies, and treats.
