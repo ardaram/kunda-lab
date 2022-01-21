@@ -21,3 +21,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+graduate researcher:
+  icon: fas fa-graduation-cap
+  text: Graduate researcher
