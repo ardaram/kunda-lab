@@ -43,9 +43,7 @@ We are located in the basement of the [St. Alberts Hall]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-St. Albert Hall, Room B18-2
-8000 Utopia Parkway
-Queens, NY 11439 
+St. Albert Hall, Room B18-2, 8000 Utopia Parkway, Queens, NY 11439 
 {:.center}
 
 {% capture col1 %}
