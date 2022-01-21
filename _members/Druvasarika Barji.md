@@ -5,7 +5,6 @@ description: Graduate Student
 role: gr
 
 links:
-  
   email: druvasarika.barji19@my.stjohns.edu
   linkedin: druvasarika-barji-024416191
 ---
