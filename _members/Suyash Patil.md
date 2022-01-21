@@ -2,7 +2,7 @@
 name: Suyash Patil
 image: images/member.jpg
 description: Graduate student
-role: 
+role: gr
 
 links:
   email: suyash.patil19@my.stjohns.edu
