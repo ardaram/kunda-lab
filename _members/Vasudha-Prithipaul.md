@@ -2,6 +2,7 @@
 name: Vasudha Prithipaul
 image: images/member.jpg
 description: Graduate Student
+role: programmer
 links:
 email: anne@chovie.com
 ---
