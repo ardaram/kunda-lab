@@ -39,20 +39,18 @@ We are a group of graduate students working in this lab.
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking for enthusiatic and passionate students to join our lab.
 
 {% include section.html %}
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Post Doctoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are lloking for a post doc student to join our lab who has prior experience in dry powder biologics.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+- 3+ years experience in inhalation therapies
+- Strong desire to learn and mentor 
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
