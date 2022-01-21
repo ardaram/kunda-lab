@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Pharmaceutical Sciences](), at [St. Johns University]().
+We are located in the basement of the [St. Alberts Hall]().
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="kundan@stjohns.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="kundan@stjohns.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="718-990-1632"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-718-990-1632"
   style="button"
 %}
 {%
@@ -43,9 +43,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+St. Albert Hall, Room B18-2
+8000 Utopia Parkway
+Queens, NY 11439 
 {:.center}
 
 {% capture col1 %}
