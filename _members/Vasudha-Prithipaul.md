@@ -1,4 +1,3 @@
-
 ---
 name: Meow
 image: images/member.jpg
