@@ -1,19 +1,13 @@
 ---
-name: Upton O. Goode
+name: Druvasarika Barji
 image: images/member.jpg
-description: Bone Investigator
-role: pi
-aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+description: Graduate Student
+role: 
+
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
-  linkedin: https://linkedin/com/amishas157
+  
+  email: druvasarika.barji19@my.stjohns.edu
+  linkedin: https://www.linkedin.com/in/druvasarika-barji-024416191
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Druvasarika is a 3rd graduate student pursuing PhD in Industrial Pharmacy.
