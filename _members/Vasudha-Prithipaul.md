@@ -2,7 +2,7 @@
 name: Vasudha Prithipaul
 image: images/member.jpg
 description: Graduate Student
-role: graduate_researcher
+role: gr
 links:
 email: anne@chovie.com
 ---
