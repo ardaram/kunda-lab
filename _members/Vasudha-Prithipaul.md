@@ -1,15 +1,9 @@
 ---
-name: Meow
+name: Vasudha Prithipaul
 image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
+description: Graduate Student
 links:
 email: anne@chovie.com
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Vasudha is a 3rd year graduate student pursuing PhD in Indutrial Pharmacy.
