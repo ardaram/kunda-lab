@@ -1,6 +1,6 @@
 ---
 name: Suyash Patil
-image: images/member.jpg
+image: images/Suyash.jpeg
 description: Graduate student
 role: gr
 
