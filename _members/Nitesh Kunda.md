@@ -8,7 +8,7 @@ aliases:
   - N. K.
 links:
   email: kundan@stjohns.edu
-  google-scholar: citations?user=lrT-dKcAAAAJ&hl=en 
+  google-scholar: https://scholar.google.com/citations?user=lrT-dKcAAAAJ&hl=en 
   linkedin: niteshkunda
 ---
 
