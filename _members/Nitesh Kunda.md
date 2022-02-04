@@ -1,6 +1,6 @@
 ---
 name: Nitesh Kunda
-image: images/Nitesh Kunda.jpg
+image: images/Kunda.jpg
 description: Principal Investigator
 role: pi
 aliases:
