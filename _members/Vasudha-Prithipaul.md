@@ -1,6 +1,6 @@
 ---
 name: Vasudha Prithipaul
-image: images/member.jpg
+image: images/Vasudha.jpeg
 description: Graduate Student
 role: gr
 links:
