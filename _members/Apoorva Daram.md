@@ -1,6 +1,6 @@
 ---
 name: Apoorva Daram
-image: images/member.jpg
+image: images/Apoorva.jpeg
 description: Graduate Student
 role: gr
 
