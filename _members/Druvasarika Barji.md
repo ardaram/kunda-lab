@@ -1,6 +1,6 @@
 ---
 name: Druvasarika Barji
-image: images/member.jpg
+image: images/Sarika.jpg
 description: Graduate Student
 role: gr
 
